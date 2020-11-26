@@ -1,9 +1,9 @@
 #
-#   Copyright (C) 2018 WINS
+#   Copyright (C) MINZKN.COM
 #   All rights reserved.
 #
 #   Maintainers
-#     JaeHyuk Cho ( <mailto:minzkn@minzkn.com>, <mailto:minzkn@wins21.co.kr> )
+#     JaeHyuk Cho <mailto:minzkn@minzkn.com>
 #
 
 # hwport-leak-detective.so hook library
